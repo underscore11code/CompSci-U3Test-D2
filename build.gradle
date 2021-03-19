@@ -15,7 +15,7 @@ dependencies {
 }
 
 application {
-    mainClass = 'io.github.underscore11code.compsci.Main'
+    mainClass = 'io.github.underscore11code.compsci.DeductionCalculator'
 }
 
 run {

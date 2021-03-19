@@ -3,7 +3,7 @@ package io.github.underscore11code.compsci;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class Main {
+public class DeductionCalculator {
   public static void main(String[] args) {
     final Scanner scanner = new Scanner(System.in);
     System.out.println("Enter the amount of your purchases: ");
